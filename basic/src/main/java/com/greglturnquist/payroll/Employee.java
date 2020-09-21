@@ -33,6 +33,7 @@ public class Employee {
 	private String lastName;
 	private String description;
 
+	@SuppressWarnings("unused")
 	private Employee() {}
 
 	public Employee(String firstName, String lastName, String description) {

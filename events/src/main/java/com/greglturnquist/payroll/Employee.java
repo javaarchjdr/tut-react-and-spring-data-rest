@@ -38,6 +38,7 @@ public class Employee {
 
 	private @Version @JsonIgnore Long version;
 
+	@SuppressWarnings("unused")
 	private Employee() {}
 
 	public Employee(String firstName, String lastName, String description) {

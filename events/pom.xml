@@ -11,7 +11,6 @@
 	</parent>
 
 	<artifactId>react-and-spring-data-rest-events</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>React.js and Spring Data REST - Events</name>
@@ -19,7 +18,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version>1.8</java.version>
+		<java.version>1.14</java.version>
 	</properties>
 
 	<dependencies>
